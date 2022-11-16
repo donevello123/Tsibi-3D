@@ -1,5 +1,5 @@
 # Tsibi-3D
-Infinite Battle-Runner
+<h1>Infinite Battle-Runner</h1>
 
 ![alt text](https://github.com/donevello123/Tsibi-3D/blob/main/image_2022-11-15_205050853.png?raw=true)
 
